@@ -1,5 +1,7 @@
 # ENCRYPTO-Dekstop-App
 
+![ENCRYPTO DEMO1](https://github.com/Qyuzet/ENCRYPTO/assets/93258081/53ec4b14-8a85-4d04-87b1-99d94f4f3310)
+
 
 ![1](https://github.com/Qyuzet/ENCRYPTO/assets/93258081/56d004be-6488-44c0-bd26-83a6fc4aa181)
 ![2](https://github.com/Qyuzet/ENCRYPTO/assets/93258081/5671d8c8-9afb-470a-a745-35a8d679819f)
