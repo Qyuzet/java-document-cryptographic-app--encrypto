@@ -40,7 +40,16 @@ This project introduces Encrypto, a Java-based application designed to enhance t
 
 **Data Structure Performance**
 
+
 The project evaluated the performance of different data structures (linked lists, arrays, and hashmaps) for encryption and decryption tasks. Hashmaps emerged as the most efficient choice, offering a balance of speed and memory usage.
+
+
+**Class Diagram**
+
+
+![Main_Menu](https://github.com/Qyuzet/java-document-cryptographic-app--encrypto/assets/93258081/58e461c3-8d23-4fbf-9c8e-aa97693e2ef3)
+![Main_Menu_](https://github.com/Qyuzet/java-document-cryptographic-app--encrypto/assets/93258081/506eed8c-f001-4991-aa71-9fece2c400b1)
+
 
 **Project Team**
 
