@@ -1,39 +1,60 @@
 ## Introducing Encrypto: Secure Your Word Files with Ease!
+
+
+### Encrypto: A Java-Based Solution for Secure Document Encryption
 **Download Link** : https://fastupload.io/a8addea77dc10b70
 
-Encrypto is a powerful desktop application that safeguards your sensitive Microsoft Word documents with robust AES encryption, ensuring maximum security and peace of mind. 
-
+This project introduces Encrypto, a Java-based application designed to enhance the security of Microsoft Word documents through encryption and decryption functionalities.
 ![e-ff](https://github.com/Qyuzet/java-document-cryptographic-app--encrypto/assets/93258081/2af50ef0-fd13-4177-908e-1f4c62d8bb4d)
 
-**The problem:** In today's digital age, inefficient encryption can lead to data loss and compromise your privacy.  Exposing sensitive information can result in costly penalties, lengthy lawsuits, and irreparable reputational damage.
 
-**Encrypto's solution:** We've built a secure and user-friendly application that extends your data security with an advanced encryption layer. Encrypto utilizes the industry-standard AES encryption algorithm to transform your Word files into unreadable gibberish, making them inaccessible to unauthorized individuals. 
+**Key Features**
 
-**Here's how Encrypto makes your life easier:**
+*   **Robust Encryption:** Employs the Advanced Encryption Standard (AES) algorithm, a widely recognized and secure encryption standard, to safeguard document content.
+*   **User-Friendly Interface:** Provides a simple and intuitive graphical user interface (GUI) built with Java Swing, making encryption and decryption processes accessible to users.
+*   **Seamless Word Integration:** Utilizes the Apache POI library to interact with Word documents (.docx), enabling the extraction, modification, and saving of encrypted content within the document structure.
+*   **Base64 Encoding:** Converts encrypted binary data into a text-based format using Base64 encoding, ensuring compatibility with the text-based nature of Word documents.
+*   **Efficient Development:** Leverages Maven for build automation and dependency management, streamlining the development process and ensuring project consistency.
+*   **Cross-Platform Compatibility:** Developed in Java, the application is designed to run on various operating systems, maximizing its reach and usability.
+*   **Standalone Executable:** Utilizes Launch4j to package the application into a standalone executable, simplifying distribution and eliminating the need for users to have Java installed.
 
-* **Effortless encryption and decryption:**  Simply use the convenient keyboard shortcuts **Ctrl+E** (encrypt) and **Ctrl+D** (decrypt) to secure and unlock your Word files instantly.
-* **Targeted security:**  Protect only the specific folders containing your sensitive documents, eliminating the need for full hard drive encryption.
-* **Fast and efficient:**  Encrypto utilizes efficient data processing methods, minimizing the time it takes to encrypt or decrypt your files.
+**How Encrypto Works**
 
-**Encrypto is perfect for:**
+![image](https://github.com/Qyuzet/java-document-cryptographic-app--encrypto/assets/93258081/d59540f0-5ef2-49e1-8b21-9fc7d7cebe90)
 
-* **Individuals:**  Safeguard personal diaries, journals, and private documents.
-* **Businesses:**  Secure confidential business reports, contracts, and sensitive data.
-* **Anyone who values privacy:**  Enhance the security of important files and protect your sensitive information.
 
-**Choose Encrypto to empower your security and simplify data protection!**
+1.  **User Selection:** The user chooses to either encrypt or decrypt Word documents within a specified folder.
+2.  **Key Management:** The application handles the generation or loading of the secret key used for encryption and decryption.
+3.  **Encryption:**
+    *   Plaintext Extraction: The original content of the Word document is extracted.
+    *   AES Encryption: The extracted text is encrypted using the AES algorithm and the secret key.
+    *   Base64 Encoding: The encrypted binary data is converted to Base64 format.
+    *   Text Replacement: The original text in the document is replaced with the Base64-encoded encrypted text.
+    *   Document Saving: The modified document, now containing encrypted content, is saved.
+4.  **Decryption:**
+    *   Encrypted Text Retrieval: The Base64-encoded encrypted text is retrieved from the document.
+    *   Base64 Decoding: The encoded text is converted back to binary form.
+    *   AES Decryption: The binary data is decrypted using the AES algorithm and the secret key.
+    *   Text Replacement: The encrypted text is replaced with the original decrypted content.
+    *   Document Saving: The restored document is saved.
 
-**Key features:**
+**Data Structure Performance**
 
-* **AES encryption:**  Utilizes the industry-standard AES encryption algorithm for robust security.
-* **User-friendly interface:**  Intuitive design with easy-to-use keyboard shortcuts for effortless encryption and decryption.
-* **Performance optimized:**  Efficient data processing methods ensure fast and reliable operation.
-* **Targeted folder encryption:**  Secure only the folders containing your sensitive files.
+The project evaluated the performance of different data structures (linked lists, arrays, and hashmaps) for encryption and decryption tasks. Hashmaps emerged as the most efficient choice, offering a balance of speed and memory usage.
 
-**Encrypto:  Empowering Security. Simplifying Protection.**
+**Project Team**
 
-**Download Encrypto today and experience the peace of mind of knowing your data is safe!**
+*   Ari Jaya Teguh (2702403996) - Developer
+*   Michael Lee Koesumo (2802470553) - Developer
+*   Riki Awal Syahputra (2802471404) - Developer Leader
 
+**Disclaimer:**
+
+This project is primarily an educational endeavor and may not encompass all the complexities of real-world document encryption systems.
+
+**License:**
+
+This project is licensed under the MIT License.
 
 ![1](https://github.com/Qyuzet/ENCRYPTO/assets/93258081/56d004be-6488-44c0-bd26-83a6fc4aa181)
 ![2](https://github.com/Qyuzet/ENCRYPTO/assets/93258081/5671d8c8-9afb-470a-a745-35a8d679819f)
