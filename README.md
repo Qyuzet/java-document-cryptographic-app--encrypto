@@ -3,7 +3,7 @@
 
 Encrypto is a powerful desktop application that safeguards your sensitive Microsoft Word documents with robust AES encryption, ensuring maximum security and peace of mind. 
 
-![ENCRYPTO DEMO1](https://github.com/Qyuzet/ENCRYPTO/assets/93258081/53ec4b14-8a85-4d04-87b1-99d94f4f3310)
+![e-ff](https://github.com/Qyuzet/java-document-cryptographic-app--encrypto/assets/93258081/2af50ef0-fd13-4177-908e-1f4c62d8bb4d)
 
 **The problem:** In today's digital age, inefficient encryption can lead to data loss and compromise your privacy.  Exposing sensitive information can result in costly penalties, lengthy lawsuits, and irreparable reputational damage.
 
