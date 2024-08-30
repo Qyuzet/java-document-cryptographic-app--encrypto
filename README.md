@@ -4,7 +4,7 @@
 ### Encrypto: A Java-Based Solution for Secure Document Encryption
 **Download Link** : https://fastupload.io/a8addea77dc10b70
 
-This project introduces Encrypto, a Java-based application designed to enhance the security of Microsoft Word documents through encryption and decryption functionalities.
+This project introduces Encrypto, a Java-based application designed to enhance the security of Microsoft Word documents through encryption and decryption functionalities...
 ![e-ff](https://github.com/Qyuzet/java-document-cryptographic-app--encrypto/assets/93258081/2af50ef0-fd13-4177-908e-1f4c62d8bb4d)
 
 
