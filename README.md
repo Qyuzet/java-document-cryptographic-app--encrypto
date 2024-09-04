@@ -12,7 +12,7 @@ This project introduces Encrypto, a Java-based application designed to enhance t
 
 *   **Robust Encryption:** Employs the Advanced Encryption Standard (AES) algorithm, a widely recognized and secure encryption standard, to safeguard document content...
 *   **User-Friendly Interface:** Provides a simple and intuitive graphical user interface (GUI) built with Java Swing, making encryption and decryption processes accessible to users.
-*   **Seamless Word Integration:** Utilizes the Apache POI library to interact with Word documents (.docx), enabling the extraction, modification, and saving of encrypted content within the document structure.
+*   **Seamless Word Integration:** Utilizes the Apache POI library to interact with Word documents (.docx), enabling the extraction, modification, and saving of encrypted content within the document structure..
 *   **Base64 Encoding:** Converts encrypted binary data into a text-based format using Base64 encoding, ensuring compatibility with the text-based nature of Word documents.
 *   **Efficient Development:** Leverages Maven for build automation and dependency management, streamlining the development process and ensuring project consistency.
 *   **Cross-Platform Compatibility:** Developed in Java, the application is designed to run on various operating systems, maximizing its reach and usability.
