@@ -1,4 +1,4 @@
-## Introducing Encrypto: Secure Your Word Files with Ease!
+## Introducing Encrypto: Secure Your Word Files with Ease!.
 
 
 ### Encrypto: A Java-Based Solution for Secure Document Encryption
